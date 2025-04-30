@@ -29,7 +29,7 @@ Iridic™ Assets Include the following types:
 
 
 <a name="top"></a>
-[![Abblix OIDC Server](https://resources.abblix.com/imgs/jpg/abblix-oidc-server-github-banner.jpg)](https://www.abblix.com/abblix-oidc-server)
+[![Official Website](https://framerusercontent.com/images/LSxLBgii7eoaT8Q6Xydvk7c2RkQ.jpg)](https://iridic-dev.github.io/Iridic/)
 ★ Star us on GitHub — it motivates us a lot!
 
 [![Share](https://img.shields.io/badge/share-000000?logo=x&logoColor=white)](https://x.com/intent/tweet?text=Check%20out%20this%20project%20on%20GitHub:%20https://github.com/Insomyx/Iridic/%20%23OpenIDConnect%20%23Security%20%23Authentication)

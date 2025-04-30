@@ -39,10 +39,7 @@ Iridic™ Assets Include the following types:
 [![Share](https://img.shields.io/badge/share-0088CC?logo=telegram&logoColor=white)](https://t.me/share/url?url=https://github.com/Insomyx/Iridic/&text=Check%20out%20this%20project%20on%20GitHub)
 
 ## Assets
-Check out our official assets:
-[link here]
-
--
+Assets have been moved to website.
 
 ## Table of Contents
 - [About](#-about)

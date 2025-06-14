@@ -1,4 +1,4 @@
-# Iridic™
+# Iridiculous™
 
 ░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░▒▓███████▓▒░░▒▓█▓▒░░▒▓██████▓▒░  
 ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
@@ -16,7 +16,7 @@ We don't just create Games, we bring them to Life
 Our Goal is to make captivating Roblox Experiences
 and give Players a unique selection of Games.
 
-Iridic™ Assets Include the following types:
+Iridiculous™ Assets Include the following types:
 - Scripts
 - Models
 - UI Elements
@@ -65,7 +65,7 @@ We appreciate your support and look forward to making our product even better wi
 For more details about our products, services, or any general information regarding the Abblix OIDC Server, feel free to reach out to us. We are here to provide support and answer any questions you may have. Below are the best ways to contact our team:
 
 - **Email**: Send us your inquiries or support requests at [therealinsomyx@gmail.com](mailto:therealinsomyx@gmail.com).
-- **Website**: Visit the official Iridic™ page for more information: [Abblix OIDC Server](https://www.abblix.com/abblix-oidc-server).
+- **Website**: Visit the official Iridiculous™ page for more information: [Abblix OIDC Server](https://www.abblix.com/abblix-oidc-server).
 
 We look forward to assisting you and ensuring your experience with our products is successful and enjoyable!
 
